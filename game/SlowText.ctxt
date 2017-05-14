@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=word
+comment0.target=void\ printI(java.lang.String)
+comment1.params=word
+comment1.target=void\ printD(java.lang.String)
+numComments=2

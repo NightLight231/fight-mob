@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=mlvl
+comment0.target=boolean\ battle(int)
+comment1.params=mlvl
+comment1.target=boolean\ playerAtkPhase(int)
+comment2.params=
+comment2.target=void\ atk()
+comment3.params=
+comment3.target=void\ Matk()
+comment4.params=mul
+comment4.target=void\ PBR(int)
+comment5.params=mlvl
+comment5.target=void\ monsterlvl(int)
+comment6.params=
+comment6.target=void\ statusCal()
+numComments=7

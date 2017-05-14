@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ bag()
+comment1.params=
+comment1.target=void\ lifeAdd()
+comment10.params=
+comment10.target=void\ useMHeal()
+comment2.params=
+comment2.target=void\ TP()
+comment3.params=
+comment3.target=void\ ATKequipment()
+comment4.params=
+comment4.target=void\ ATKequipWear()
+comment5.params=
+comment5.target=void\ DEFequipment()
+comment6.params=
+comment6.target=void\ DEFequipWear()
+comment7.params=
+comment7.target=void\ useHeal()
+comment8.params=
+comment8.target=void\ useSHeal()
+comment9.params=
+comment9.target=void\ useGHeal()
+numComments=11

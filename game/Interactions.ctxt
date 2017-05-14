@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ interact()
+comment1.params=n
+comment1.target=void\ statis(int)
+comment2.params=advance
+comment2.target=void\ move(boolean)
+comment3.params=
+comment3.target=boolean\ checkLife()
+comment4.params=
+comment4.target=void\ wonGame()
+comment5.params=
+comment5.target=void\ checkLvlUp()
+comment6.params=
+comment6.target=void\ gear()
+numComments=7

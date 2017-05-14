@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Monster()
+comment1.params=x
+comment1.target=Monster(int)
+comment2.params=x\ y
+comment2.target=Monster(int,\ java.lang.String)
+comment3.params=def\ atk
+comment3.target=int\ doATK(int,\ int)
+numComments=4

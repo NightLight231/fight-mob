@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ forest()
+comment1.params=
+comment1.target=boolean\ desert()
+comment2.params=
+comment2.target=boolean\ mountain()
+comment3.params=
+comment3.target=boolean\ unknow()
+numComments=4

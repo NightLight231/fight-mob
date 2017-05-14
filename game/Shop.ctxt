@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ buy()
+comment0.text=\r\n\ Swords\:\r\n\ 101\ \=\ wood\ atk\ +\ 5\ 100g\r\n\ 102\ \=\ stone\ atk\ +\ 10\ \ 200g\r\n\ 103\ \=\ gold\ atk\ \ +\ 15\ \ 400g\ \r\n\ 104\ \=\ steel\ atk\ +\ 20\ \ 1000g\r\n\ 105\ \=\ Rage\ atk\ +\ 40\ \ \ 2500g\ \r\n\ 106\ \=\ Mystic\ atk\ +\ 80\ \ 5000g\r\n\ 107\ \=\ Night's\ Blight\ +\ 100\ \ 9001g\r\n\ \r\n\ Armor\:\r\n\ 201\ \=\ fur\ def\ +\ 10\ \ 100g\r\n\ 202\ \=\ iron\ def\ +\ 20\ \ 200g\r\n\ 203\ \=\ Turtle\ shell\ +\ 30\r\n\ 204\ \=\ steel\ +\ 40\r\n\ 205\ \=\ Dragon\ Scale\ def\ +\ 50\ \ 2500g\r\n\ 206\ \=\ Dragon\ Skull\ def\ +\ 70\ \ 3500g\r\n\ 207\ \=\ Night's\ Light\ +\ 90\ \ 7000g\r\n\ \r\n\ Consumerable\:\r\n\ 301\ \=\ heal\ hp\ +\ 40\ \ \ 20g\ \ \ \r\n\ 302\ \=\ Great\ heal\ +\ 100\ \ \ 100g\r\n\ 303\ \=\ Max\ heal\ +\ full\ \ \ \ 150g\ \r\n\ 304\ \=\ Ticket\ (Travel\ to\ any\ shop\ in\ the\ world)\ 500g\r\n\ 305\ \=\ Soul\ Stone\ +\ 1\ life\ \ 2000g\r\n
+comment1.params=
+comment1.target=void\ buySword()
+comment2.params=
+comment2.target=void\ buyArmor()
+comment3.params=
+comment3.target=void\ buyConsume()
+numComments=4

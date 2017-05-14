@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ calRunChance()
+comment1.params=atk
+comment1.target=int\ RAM(int)
+comment2.params=
+comment2.target=boolean\ crit()
+comment3.params=
+comment3.target=int\ calRewordChance()
+comment4.params=
+comment4.target=int\ calEXPChance()
+numComments=5

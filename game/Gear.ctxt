@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=rps
+comment0.target=void\ ATKgearWear(int)
+comment1.params=rps
+comment1.target=void\ DEFgearWear(int)
+comment2.params=
+comment2.target=void\ gearOffATK()
+comment3.params=
+comment3.target=void\ gearOffDEF()
+numComments=4
